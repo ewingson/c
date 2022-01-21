@@ -1,4 +1,5 @@
 //linux read character in a loop without return and output ascii-value break on #
+//works on debian, doesn't at mxlinux
 #include <stdio.h>
 #include <termios.h>
 #include <string.h>
